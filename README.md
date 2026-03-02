@@ -1,4 +1,4 @@
-# Hi, I'm Pav 👋
+# Hi, I'm Pav👋🏾
 
 ## Product Manager | FinTech SaaS | Toronto
 
