@@ -10,9 +10,10 @@ and data teams use every day.
 
 ---
 
-### 📂 Projects (Coming Soon)
+### 📁 Projects (Coming Soon)
 | Project | What It Shows |
 |---|---|
+| 📺 Episode Tracker & Release Calendar | End-to-end product thinking from personal pain point to solution |
 | 🇬🇧 British Slang & Regional Dialect Encyclopedia | Content architecture, information design & user research |
 | 🎮 Console Game Backlog Tracker | Prioritisation thinking applied to a real user problem |
 | 🃏 Board Game Night Picker | Recommendation logic & structured decision-making |
