@@ -13,7 +13,7 @@ and data teams use every day.
 ### 📁 Projects
 | Project | What It Shows |
 |---|---|
-| [📺 Plotify — Episode Tracker & Release Calendar](https://github.com/pav-sabanathan/episode-tracker-release-calendar) | End-to-end product thinking from personal pain point to solution — [Live here](https://plotify.lovable.app) |
+| [📺 Plotify — Episode Tracker & Release Calendar](https://github.com/pav-sabanathan/episode-tracker-release-calendar) | End-to-end product thinking from personal pain point to solution — [Live here](https://getplotify.vercel.app) |
 | 🇬🇧 British Slang & Regional Dialect Encyclopedia | Content architecture, information design & user research |
 | 🎮 Console Game Backlog Tracker | Prioritisation thinking applied to a real user problem |
 | 🃏 Board Game Night Picker | Recommendation logic & structured decision-making |
